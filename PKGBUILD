@@ -19,7 +19,7 @@ source=("installerBlobFromMicrochip::http://ww1.microchip.com/downloads/en/Devic
         "bitrock-unpacker.tcl")
 
 md5sums=('443c0b7045bf414aaccb64b91036aac8'
-         '94f995759edd4c4118d1f48cb75acb12')
+         'b4483a2f4caf75c9af35a1d303d6b709')
 install=$pkgname.install
 
 instdir="/opt/microchip/xc${_number_of_bits}/v${pkgver}"
